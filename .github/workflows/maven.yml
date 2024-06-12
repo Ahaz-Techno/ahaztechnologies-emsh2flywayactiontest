@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: my test ci/cd with h2 database
+name: my test ci/cd with h2 databas
 
 on:
   push:
