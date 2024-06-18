@@ -71,7 +71,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>emsH2FlywayActionTest</finalName>
+		<finalName>emsh2flywayactiontest</finalName>
 	</build>
 
 </project>
